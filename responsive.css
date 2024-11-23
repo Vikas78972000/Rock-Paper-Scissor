@@ -1,0 +1,20 @@
+@media screen and (max-width:572px) {
+  .chocies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 5rem;
+  }
+  img{
+    height: 89px;
+  width: 89px;
+  }
+ #msg{
+  font-size: 1rem;
+  display: inline;
+  padding: 1rem;
+  border-radius: 1rem;
+  color: white;
+ }
+}
