@@ -17,4 +17,12 @@
   border-radius: 1rem;
   color: white;
  }
+  .choice{
+    height: 101px;
+    width: 101px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 }
